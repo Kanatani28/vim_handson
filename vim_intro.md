@@ -91,7 +91,7 @@ My name is ○○ .
 |リドゥ |`ctrl + r`|
 |ビジュアルモード |`v`|
 |矩形選択 |`ctrl + v`|
-
+|矩形選択後、挿入 |`I` or `A`(escで終了)|
 
 #### ex.2) 以下の文章を正しく編集してみましょう。
 正) My name is Taiki Sano .     
