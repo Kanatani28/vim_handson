@@ -37,10 +37,10 @@ for Team Mott 「Linuxが怖くなくなるハンズオン」
 |コマンドモード |`Esc`|
 
 #### ex.1) 以下の文章を正しく編集してみましょう。
-正) My name is Taiki Sano .
- name is Taiki Sano .
-My name is
-My name is ○○ .
+正) My name is Taiki Sano .   
+ name is Taiki Sano .   
+My name is    
+My name is ○○ .    
 
 ### 終了コマンド
 |終了パターン                |コマンド                          |
@@ -94,18 +94,18 @@ My name is ○○ .
 
 
 #### ex.2) 以下の文章を正しく編集してみましょう。
-正) My name is Taiki Sano .
-Mmmmy name is Taiki Sanono san .
+正) My name is Taiki Sano .     
+Mmmmy name is Taiki Sanono san .    
 
-正) Today's speakers are
-    Mr. Sano,
-    Mr. Kanatani and
-    Mr. Koizumi .
+正) Today's speakers are    
+    Mr. Sano,    
+    Mr. Kanatani and    
+    Mr. Koizumi .    
 
-   Today's speakers are
-     Sano,
-     Kanatani and
-     Koizumi .
+   Today's speakers are    
+     Sano,    
+     Kanatani and    
+     Koizumi .    
 
 ## vimをもっと便利に使うために
  - ホームディレクトリに.vimrcファイルを作る。
