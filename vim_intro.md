@@ -110,4 +110,4 @@ Mmmmy name is Taiki Sanono san .
 ## vimをもっと便利に使うために
  - ホームディレクトリに.vimrcファイルを作る。
  - プラグインを導入する。
- - マクロを使う
+ - マクロを使う...etc
