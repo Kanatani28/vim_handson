@@ -17,6 +17,14 @@ for Team Mott 「Linuxが怖くなくなるハンズオン」
  - 慣れればめちゃ便利（らしい）
 > 今日のハンズオンではマウスやカーソルキーは極力使わないように頑張ってみてください。
 
+## なぜvi/vim?
+ - Linuxサーバー内だけで編集して実行できる
+ - 幅広い拡張性
+ - 起動が早い
+ - （慣れれば）素早くファイルが編集できる
+ - なんとなくかっこいい ..etc
+ 参考：[なぜvimを使うのか](http://kaworu.jpn.org/vim/%E3%81%AA%E3%81%9Cvim%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
+
 ## viエディタ使い方
 
 ### モードの切り替え
@@ -83,6 +91,21 @@ My name is ○○ .
 |リドゥ |`ctrl + r`|
 |ビジュアルモード |`v`|
 |矩形選択 |`ctrl + v`|
+
+
+#### ex.2) 以下の文章を正しく編集してみましょう。
+正) My name is Taiki Sano .
+Mmmmy name is Taiki Sanono san .
+
+正) Today's speakers are
+    Mr. Sano,
+    Mr. Kanatani and
+    Mr. Koizumi .
+
+   Today's speakers are
+     Sano,
+     Kanatani and
+     Koizumi .
 
 ## vimをもっと便利に使うために
  - ホームディレクトリに.vimrcファイルを作る。
